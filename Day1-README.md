@@ -1,7 +1,9 @@
 Power BI Learning Journey – Day 1
 <br>
+
 How to Install Power BI Desktop:-
         1. Download Power BI Desktop:-
+        
             * Open your web browser and go to the official Power BI Desktop download page on the Microsoft website.
             * You can also search "Power BI download" and select the official Microsoft link.
             * On the download page, click Download Free or Get (if using Microsoft Store).
@@ -72,6 +74,7 @@ How to Install Power BI Desktop:-
 <br>
 
 ✅ Key Takeaways:-
+
         * Gained hands-on experience with Power BI’s data connectivity options.
         * Understood when to use Import Mode vs. Direct Query Mode.
         * Practiced appending data from multiple sources for unified analysis.
@@ -80,6 +83,7 @@ How to Install Power BI Desktop:-
  <br>
 
  🚀 Next Steps:-
+ 
         * Explore data transformation and cleaning techniques in Power Query.
         * Practice merging data from different sources.
         * Start building simple visualizations and dashboards.
