@@ -50,9 +50,8 @@ How to Install Power BI Desktop:-
             
             * Ensure your system meets minimum requirements: Windows 10 or later, and Internet Explorer 9 or higher
             
-        * Power BI Desktop Direct Download Page:-
-        
-            https://www.microsoft.com/en-us/download/details.aspx?id=58494
+* Power BI Desktop Direct Download Page:-
+        * https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
 
 <br>
