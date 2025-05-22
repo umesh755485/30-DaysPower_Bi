@@ -98,9 +98,13 @@ How to Install Power BI Desktop:-
 <br>
 
 ✅ Key Takeaways:-
+
         * Gained hands-on experience with Power BI’s data connectivity options.
+        
         * Understood when to use Import Mode vs. Direct Query Mode.
+        
         * Practiced appending data from multiple sources for unified analysis.
+        
         * Successfully imported data from both SQL Server and Excel for use in Power BI reports.
 
  <br>
