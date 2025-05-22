@@ -2,7 +2,7 @@ Power BI Learning Journey – Day 1
 <br>
 
 
-How to Install Power BI Desktop:-
+ * How to Install Power BI Desktop:-
 
         1. Download Power BI Desktop:-
         
@@ -100,16 +100,14 @@ How to Install Power BI Desktop:-
 ✅ Key Takeaways:-
 
         * Gained hands-on experience with Power BI’s data connectivity options.
-        
         * Understood when to use Import Mode vs. Direct Query Mode.
-        
         * Practiced appending data from multiple sources for unified analysis.
-        
         * Successfully imported data from both SQL Server and Excel for use in Power BI reports.
 
  <br>
 
  🚀 Next Steps:-
+ 
         * Explore data transformation and cleaning techniques in Power Query.
         * Practice merging data from different sources.
         * Start building simple visualizations and dashboards.
