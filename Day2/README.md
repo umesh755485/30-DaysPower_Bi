@@ -1,9 +1,8 @@
 <h1>Power BI Series Day 2: Data Modeling and Creating Relationships</h1>
 
 <p>
-* What is Data Modeling in Power BI?
-     Data modeling in Power BI is the process of structuring your data tables and defining how they relate to each other. This step is crucial for building efficient, 
-     accurate, and interactive reports and dashboards
+     * What is Data Modeling in Power BI?
+          Data modeling in Power BI is the process of structuring your data tables and defining how they relate to each other. This step is crucial for building                efficient, accurate, and interactive reports and dashboards
 </p>
 
 
