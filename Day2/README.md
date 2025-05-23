@@ -24,6 +24,11 @@
 
 3. Create Relationships
    * Automatic: Power BI may detect and create relationships based on matching column names.
+
+
+
+       <img src="asserts/icons8-github-logo-64.png" width="40" alt="GitHub" />
+
   
  
 
