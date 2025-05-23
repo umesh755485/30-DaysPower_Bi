@@ -27,7 +27,6 @@
 
 ## Manual:
 * Drag a field (key column) from one table to the matching field in another table.
-
 Or, go to Modeling > Manage Relationships > New to define the relationship.
 
 4. Set Relationship Properties
@@ -42,7 +41,9 @@ Test your relationships using visuals and slicers.
 
 
 
-<h1>When you face any issues while in relationships like auto relation then follow these steps</h1>
+<h1>When you face any issues regarding same relation was not getting then follow these steps</h1>
 
 options and settings → Option → Current File → Dataload → check the bok(Auto detect new relationship after data is load) → click (ok)
+
+
 
