@@ -27,7 +27,7 @@
 
 
 
-       <img src="Day2/relationship-of-tables.png"  alt="GitHub" />
+       <img src="Day2/relationship-of-tables.png"  alt="relation-of-tables" />
 
   
  
