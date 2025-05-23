@@ -6,11 +6,12 @@
 </p>
 
 
-<h2> * Key Concepts</h2>
+<h2> ## Key Concepts</h2>
 <p>
      * Fact Table: Stores measurable, quantitative data, repeated data... that table is called as fact table  (e.g., sales, transactions).
     <br>
      * Dimension Table: Contains descriptive attributes(we can say unique values) (e.g., customer, product, date).
+    <br>
      * Star Schema: The recommended layout, where a central fact table connects to multiple dimension tables. This structure is simple, efficient, and improves performance
 </p>
 
