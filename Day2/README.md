@@ -25,24 +25,15 @@
 3. Create Relationships
    * Automatic: Power BI may detect and create relationships based on matching column names.
 
-
-
-       <img src="Day2/relationship-of-tables.png"  alt="relation-of-tables" />
-
-  
- 
-
 ## Manual:
 * Drag a field (key column) from one table to the matching field in another table.
 
 Or, go to Modeling > Manage Relationships > New to define the relationship.
 
 4. Set Relationship Properties
-Cardinality: Most commonly "One-to-Many" (1:*), where the "one" side is a dimension table and the "many" side is a fact table.
-
-Cross Filter Direction: Usually set to "Single" for best performance.
-
-Active/Inactive: You can have multiple relationships but only one active at a time between two tables.
+   * Cardinality: Most commonly "One-to-Many" (1:*), where the "one" side is a dimension table and the "many" side is a fact table.
+        Cross Filter Direction: Usually set to "Single" for best performance.
+   * Active/Inactive: You can have multiple relationships but only one active at a time between two tables.
 
 5. Validate and Optimize
 Test your relationships using visuals and slicers.
