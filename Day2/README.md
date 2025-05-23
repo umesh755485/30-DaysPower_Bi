@@ -37,5 +37,12 @@ Or, go to Modeling > Manage Relationships > New to define the relationship.
 
 5. Validate and Optimize
 Test your relationships using visuals and slicers.
+    * Remove unnecessary columns and tables to keep your model lean and performant
+  
 
-Remove unnecessary columns and tables to keep your model lean and performant
+
+
+<h1>When you face any issues while in relationships like auto relation then follow these steps</h1>
+
+options and settings → Option → Current File → Dataload → check the bok(Auto detect new relationship after data is load) → click (ok)
+
