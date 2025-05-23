@@ -24,6 +24,8 @@
 
 3. Create Relationships
    * Automatic: Power BI may detect and create relationships based on matching column names.
+  
+ 
 
 ## Manual:
 * Drag a field (key column) from one table to the matching field in another table.
