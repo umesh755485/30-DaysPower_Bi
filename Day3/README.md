@@ -20,7 +20,7 @@
 <h2>2. Setting Up Your Report Page</h2>
 <p>
 a. Creating and Naming Pages
-  * When you open Power BI Desktop, you start with a blank canvas (default 16:9 ratio).
+  *When you open Power BI Desktop, you start with a blank canvas (default 16:9 ratio).
     
 
 
