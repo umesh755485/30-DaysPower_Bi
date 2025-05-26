@@ -9,10 +9,10 @@
 <p>
   Page formatting in Power BI refers to customizing the appearance and layout of your report pages. This involves:
 
-  *Setting the canvas size and orientation
-  *Adjusting background colors or images
-  *Aligning the report page within the viewing area
-  *Customizing the filter pane and cards
-  *Applying consistent themes and templates
+  * Setting the canvas size and orientation
+  * Adjusting background colors or images
+  * Aligning the report page within the viewing area
+  * Customizing the filter pane and cards
+  * Applying consistent themes and templates
 Thoughtful page formatting enhances readability, reinforces branding, and improves the overall user experience
 </p>
