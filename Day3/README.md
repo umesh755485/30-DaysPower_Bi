@@ -33,7 +33,7 @@
  
   a. Page Size Options.
    * Power BI offers several page size presets:
-| Page Size | Description                                         |
+   * | Page Size | Description                                         |
 |-----------|-----------------------------------------------------|
 | 16:9      | Default, best for dashboards on screens             |
 | 4:3       | Suited for legacy presentations or embedded reports |
