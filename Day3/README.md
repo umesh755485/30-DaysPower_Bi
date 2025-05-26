@@ -33,4 +33,12 @@
  
   a. Page Size Options.
    * Power BI offers several page size presets:
+     | Page Size | Description                                         |
+|-----------|-----------------------------------------------------|
+| 16:9      | Default, best for dashboards on screens             |
+| 4:3       | Suited for legacy presentations or embedded reports |
+| Letter    | Portrait orientation, ideal for PDF/print           |
+| Tooltip   | Small, square, used for custom tooltips             |
+| Custom    | Set your own dimensions (pixels)                    |
+
 
