@@ -21,10 +21,8 @@
 <p>
   a. Creating and Naming Pages
   * When you open Power BI Desktop, you start with a blank canvas (default 16:9 ratio).
-    
-
-
-Rename pages for clarity by double-clicking or right-clicking the page name.
+  * Add new pages using the "+" button at the bottom.
+  * Rename pages for clarity by double-clicking or right-clicking the page name.
 
 b. Page Information Settings
 
