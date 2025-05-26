@@ -29,7 +29,6 @@
   * Enable the page as a tooltip if you want it to provide additional context when users hover over data points in other visuals.
   * Allow the page for Q&A if you want it included in Power BI’s natural language Q&A feature
  <br>
- <hr>
  <h2>3. Canvas Settings Customization</h2>
  
   a. Page Size Options.
@@ -46,5 +45,7 @@
      
   b. Vertical Alignment
    * Align your report canvas to the top or middle of the viewing area, especially useful for custom page sizes or varying screen resolutions
+     <br>
+   <h2>4. Customizing Backgrounds and Wallpaper</h2>  
 
 
