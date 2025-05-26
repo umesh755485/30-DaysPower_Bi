@@ -29,6 +29,7 @@
   * Enable the page as a tooltip if you want it to provide additional context when users hover over data points in other visuals.
   * Allow the page for Q&A if you want it included in Power BI’s natural language Q&A feature
  <br>
+ <hr>
  <h2>3. Canvas Settings Customization</h2>
  
   a. Page Size Options.
