@@ -116,7 +116,7 @@ Mastering page formatting in Power BI is essential for creating reports that are
 - Experiment with different page sizes, backgrounds, and themes in your Power BI project.<br>
 - Try customizing the filter pane and adding navigation buttons for a polished, interactive report experience!<br>
 
-## The given images are just for our understanding. Those images are not based on the our RAW data file
+## Please note that the given images are for demonstration purposes and are not derived from our actual raw data file.
 
 
 
