@@ -16,3 +16,21 @@
   * Applying consistent themes and templates
 ## Thoughtful page formatting enhances readability, reinforces branding, and improves the overall user experience
 </p>
+<br>
+<h2>2. Setting Up Your Report Page</h2>
+<p>
+a. Creating and Naming Pages
+    *When you open Power BI Desktop, you start with a blank canvas (default 16:9 ratio).
+    
+
+
+Rename pages for clarity by double-clicking or right-clicking the page name.
+
+b. Page Information Settings
+
+Assign meaningful names to pages for easy navigation.
+
+Enable the page as a tooltip if you want it to provide additional context when users hover over data points in other visuals.
+
+Allow the page for Q&A if you want it included in Power BI’s natural language Q&A feature
+</p>
