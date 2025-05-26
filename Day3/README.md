@@ -43,6 +43,6 @@
       | Custom    | Set your own dimensions (pixels)                    |
    * Choose the size that fits your report’s purpose and target device
 b. Vertical Alignment
- * Align your report canvas to the top or middle of the viewing area, especially useful for custom page sizes or varying screen resolutions
+  * Align your report canvas to the top or middle of the viewing area, especially useful for custom page sizes or varying screen resolutions
 
 
