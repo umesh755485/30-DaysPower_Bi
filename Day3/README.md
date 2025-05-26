@@ -14,5 +14,5 @@
   * Aligning the report page within the viewing area
   * Customizing the filter pane and cards
   * Applying consistent themes and templates
-Thoughtful page formatting enhances readability, reinforces branding, and improves the overall user experience
+ Thoughtful page formatting enhances readability, reinforces branding, and improves the overall user experience
 </p>
