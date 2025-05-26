@@ -41,6 +41,6 @@
       | Letter    | Portrait orientation, ideal for PDF/print           |
       | Tooltip   | Small, square, used for custom tooltips             |
       | Custom    | Set your own dimensions (pixels)                    |
-    Choose the size that fits your report’s purpose and target device 
+   * Choose the size that fits your report’s purpose and target device 
 
 
