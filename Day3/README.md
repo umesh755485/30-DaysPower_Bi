@@ -31,5 +31,5 @@
  <br>
  <h2>3. Canvas Settings Customization</h2>
   a. Page Size Options.
-## Power BI offers several page size presets:
+  ##Power BI offers several page size presets:
 
